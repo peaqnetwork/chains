@@ -4159,6 +4159,19 @@
   "faucets": [],
   "infoURL": "https://world.org/world-chain"
 }, {
+  "name": "Standard Mainnet",
+  "chainId": 486,
+  "shortName": "stnd",
+  "networkId": 486,
+  "nativeCurrency": {
+    "name": "Standard",
+    "symbol": "STND",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://standardweb3.com"
+}, {
   "name": "Rupaya",
   "chainId": 499,
   "shortName": "rupx",
@@ -4782,6 +4795,32 @@
   "rpc": ["https://rpc-testnet.juncachain.com", "wss://ws-testnet.juncachain.com"],
   "faucets": ["https://faucet-testnet.juncachain.com"],
   "infoURL": "https://junca-cash.world"
+}, {
+  "name": "Janction",
+  "chainId": 678,
+  "shortName": "janction",
+  "networkId": 678,
+  "nativeCurrency": {
+    "name": "Janction",
+    "symbol": "JCT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.janction.io", "wss://rpc.janction.io"],
+  "faucets": [],
+  "infoURL": "https://janction.io"
+}, {
+  "name": "Janction Testnet",
+  "chainId": 679,
+  "shortName": "janction_testnet",
+  "networkId": 679,
+  "nativeCurrency": {
+    "name": "Janction",
+    "symbol": "JCT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc_testnet.janction.io", "wss://rpc_testnet.janction.io"],
+  "faucets": [],
+  "infoURL": "https://janction.io"
 }, {
   "name": "Karura Network",
   "chainId": 686,
@@ -8488,9 +8527,9 @@
   "faucets": [],
   "infoURL": "https://onuschain.io"
 }, {
-  "name": "Minato",
+  "name": "Soneium Testnet Minato",
   "chainId": 1946,
-  "shortName": "minato",
+  "shortName": "soneium-minato",
   "networkId": 1946,
   "nativeCurrency": {
     "name": "Ether",
@@ -9891,6 +9930,19 @@
   "rpc": ["https://rpc-mainnet.kinggamer.org/"],
   "faucets": [],
   "infoURL": "https://kingoflegends.net/"
+}, {
+  "name": "Standard Testnet",
+  "chainId": 2426,
+  "shortName": "stndtestnet",
+  "networkId": 2426,
+  "nativeCurrency": {
+    "name": "Standard",
+    "symbol": "STND",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://standardweb3.com"
 }, {
   "name": "Polygon zkEVM Cardona Testnet",
   "chainId": 2442,
@@ -13258,6 +13310,19 @@
   "rpc": ["https://evm-rpc-atlas.planq.network"],
   "faucets": [],
   "infoURL": "https://planq.network"
+}, {
+  "name": "Bharat Blockchain Network",
+  "chainId": 7099,
+  "shortName": "bbnt",
+  "networkId": 7099,
+  "nativeCurrency": {
+    "name": "BBNT",
+    "symbol": "BBN",
+    "decimals": 18
+  },
+  "rpc": ["https://bbnrpc.testnet.bharatblockchain.io"],
+  "faucets": ["https://www.bon.bharatblockchain.io/faucet"],
+  "infoURL": "https://bharatblockchain.io/"
 }, {
   "name": "Nume",
   "chainId": 7100,
